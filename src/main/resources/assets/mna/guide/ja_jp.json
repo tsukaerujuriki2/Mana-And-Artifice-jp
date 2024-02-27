@@ -1,7 +1,7 @@
 {
   "Using  this Codex": {
     "index": 0,
-    "category": "基本",
+    "category": "basics",
     "sections": [
       {
         "type": "title",
@@ -145,21 +145,21 @@
       },
       {
         "type": "title",
-        "value": "Back Behaviour"
+        "value": "戻る動作"
       },
       {
         "type": "text",
-        "value": "Click the back behaviour tab at the bottom of this UI to change how you navigate through this codex.  There is support for changing back to a combination of escape, right mouse, and the UI buttons.",
+        "value": "このUIの下部にある「戻る」タブをクリックすることで、このコーデックスのナビゲート方法を変更することができます。 この「戻る」操作はエスケープキーとマウスの右クリックの組み合わせ、そしてUIのボタンに対応してます。",
         "json": [
           {
-            "text": "Click the "
+            "text": "このUIの下部にある "
           },
           {
-            "text": "back behaviour",
+            "text": "「戻る」",
             "color": "blue"
           },
           {
-            "text": " tab at the bottom of this UI to change how you navigate through this codex. There is support for changing back to a combination of escape, right mouse, and the UI buttons."
+            "text": " タブをクリックすることで、このコーデックスのナビゲート方法を変更することができます。 この「戻る」操作はエスケープキーとマウスの右クリックの組み合わせ、そしてUIのボタンに対応してます。"
           }
         ]
       },
@@ -196,17 +196,17 @@
       },
       {
         "type": "text",
-        "value": "When viewing a recipe, in the top left you will see a pin icon.  Click this to pin a recipe to the HUD.  This recipe will show even when the codex is closed.  Click any pin on a recipe again to hide it, or click the red pin button that appears in your inventory when you have a recipe pinned.",
+        "value": "レシピを表示している場合、右上にピンが表示されます。  これをクリックすることでHUDにレシピをピン止めできます。  このレシピはコーデックスを開いていない場合も表示されます。 ピン止めを解除するには、レシピを開いて再びピンをクリックするか、ピン止めのレシピが存在する場合にインベントリのプレイヤーの横に表示されるピンをクリックしてください。",
         "json": [
           {
-            "text": "When viewing a recipe, in the top left you will see a pin icon. Click this to "
+            "text": "レシピを表示している場合、右上にピンが表示されます。  これをクリックすることで "
           },
           {
-            "text": "pin a recipe to the HUD",
+            "text": "HUDにレシピをピン止め",
             "color": "blue"
           },
           {
-            "text": ". This recipe will show even when the codex is closed. Click any pin on a recipe again to hide it, or click the red pin button that appears in your inventory next to your player representation when you have a recipe pinned."
+            "text": "できます。  このレシピはコーデックスを開いていない場合も表示されます。 ピン止めを解除するには、レシピを開いて再びピンをクリックするか、ピン止めのレシピが存在する場合にインベントリのプレイヤーの横に表示されるピンをクリックしてください。"
           }
         ]
       }
@@ -224,51 +224,51 @@
     "sections": [
       {
         "type": "title",
-        "value": "The HUD"
+        "value": "ザ・HUD"
       },
       {
         "type": "text",
-        "value": "The main hud is the mana bar.  In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it.",
+				"value": "メインのHUDはマナを表示するバーです。  ここではレベルをを表示しているバッジと、マナを表示しているメインのバー、そしてその下の小さめのバーで経験値を表示しています。   魔法を手に持っている場合、メインのバーの暗くなっている部分が推定魔力消費量です。",
         "json": [
           {
-            "text": "The main hud is the mana bar. In this you will see a "
+            "text": "メインのHUDはマナを表示するバーです。  ここでは "
           },
           {
-            "text": "badge with your level",
+            "text": "レベルをを表示しているバッジ",
             "color": "dark_purple"
           },
           {
-            "text": " in it, a "
+            "text": " と、"
           },
           {
-            "text": "main bar representing your mana",
+            "text": "マナを表示しているメインのバー",
             "color": "dark_purple"
           },
           {
-            "text": ", and a"
+            "text": "、そして"
           },
           {
-            "text": " smaller bar below representing your magic XP",
+            "text": " そしてその下の小さめのバーで次のレベルまでの魔法経験値",
             "color": "dark_purple"
           },
           {
-            "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+            "text": " を表示しています。   魔法を手に持っている場合、メインのバーの暗くなっている部分が推定魔力消費量、もしくは魔法開始時に使用する魔力消費量です。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "HUD Display Option"
+        "value": "HUD表示設定"
       },
       {
         "type": "text",
-        "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!",
+        "value": "左下のボタンをクリックすることでHUDの表示を変更することができます。設定は 常に(always)、 マナ利用時に(conditionally) , もしくはずっと表示しない(never)を選択することができます.\n\nHUDが見えない場合はこの設定を変更した可能性が高いです！",
         "json": [
           {
-            "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
+            "text": "左下のボタンをクリックすることでHUDの表示を変更することができます。設定は 常に(always)、 マナ利用時に(conditionally) , もしくはずっと表示しない(never)を選択することができます."
           },
           {
-            "text": "If you can't see your HUD, you've likely changed this option!",
+            "text": "HUDが見えない場合はこの設定を変更した可能性が高いです！",
             "color": "dark_purple"
           }
         ]
@@ -281,15 +281,15 @@
       },
       {
         "type": "title",
-        "value": "HUD Position Option",
+        "value": "HUD位置の設定",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Click the hud position tab at the bottom of this UI to change the HUD position.",
+        "value": "左下の四方に広がる矢印をクリックすることでHUDの場所を変更できます。",
         "json": [
           {
-            "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
+            "text": "左下の四方に広がる矢印をクリックすることでHUDの場所を変更できます。"
           }
         ]
       },
@@ -301,18 +301,18 @@
       },
       {
         "type": "text",
-        "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge.",
+        "value": "赤い雷がマナの隣に表示されている場合、インベントリ内に充電がないアイテムがあることを示しています。",
         "newPage": true,
         "json": [
           {
-            "text": "If you see a "
+            "text": ""
           },
           {
-            "text": "red drop with a lightning bolt",
+            "text": "赤い雷が",
             "color": "dark_purple"
           },
           {
-            "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
+            "text": "マナの隣に表示されている場合、インベントリ内に充電がないアイテムがあることを示しています。"
           }
         ]
       },
@@ -332,92 +332,92 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mana, Regeneration, and Casting Resources"
+        "value": "マナ、再生と詠唱リソース"
       },
       {
         "type": "text",
-        "value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 120 seconds, as long as you are well-fed.  Magic is hungry work after all!  Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level.",
+        "value": "魔法の世界においてアクションを実行すると、マナと呼ばれる資源を消費します。 マナの最大値は魔法レベルに基づいており、レベルアップするたびに増加します。 また、最大マナを増加させる装身具やエンチャント、ポーションがあるという噂もあります。\n\nマナの量に関係なく、食事さえ十分に摂っていれば120秒で完全に回復します。 魔法はエネルギーを使う仕事なのだ！ マナバーはデフォルトで画面左上に表示され、魔法経験値や現在の魔法レベルも表示されます。",
         "json": [
           {
-            "text": "When you perform several actions in the realms of magic, you will consume your "
+            "text": "魔法の世界でアクションを行うとき、"
           },
           {
-            "text": "casting resource",
+            "text": "詠唱リソース",
             "color": "blue"
           },
           {
-            "text": ".\n\nYou start with "
+            "text": "を消費します。\n\nまず、"
           },
           {
-            "text": "mana",
+            "text": "マナ",
             "color": "blue"
           },
           {
-            "text": ", but depending on faction choices your casting resource may change to something else such as "
+            "text": "を消費しますが、選択した派閥によって詠唱に利用するリソースが変わる場合があります。例えば"
           },
           {
-            "text": "souls",
+            "text": "魂",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "、 "
           },
           {
-            "text": "brimstone",
+            "text": "獄炎",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "、 "
           },
           {
-            "text": "summer fire",
+            "text": "夏火",
             "color": "blue"
           },
           {
-            "text": ", or "
+            "text": "や、"
           },
           {
-            "text": "winter ice",
+            "text": "冬氷",
             "color": "blue"
           },
           {
-            "text": ".  Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry.  For the rest of this entry, "
+            "text": "などです。これらの詠唱リソースはそれぞれ扱いが少し異なっており、それぞれの派閥の説明に詳細が書かれています。この項目では、"
           },
           {
-            "text": "mana",
+            "text": "マナ",
             "color": "blue"
           },
           {
-            "text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum.  That means a boost to maximum mana will also boost regeneration.  Mana regenerates slower if you are not at full saturation.  Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
+            "text": " を詠唱リソースとして説明します。\n\nマナの最大値は魔法レベルに基づいており、レベルアップするたびに増加します。 また、最大マナを増加させる装身具やエンチャント、ポーションがあるという噂もあります。\n\nマナの量に関係なく、食事さえ十分に摂っていれば120秒で完全に回復します。 魔法はエネルギーを使う仕事なのだ！ マナバーはデフォルトで画面左上に表示され、魔法経験値や現在の魔法レベルも表示されます。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "There are items, such as Mana Tea or Potions, that can help restore mana more quickly.  Potions restore instantly, while Mana Tea provides a regeneration buff.  There may be other methods as well to regenerate mana more quickly.",
+        "value": "マナティーやポーションなど、マナをより早く回復させることができるアイテムがあります。ポーションは即座に回復し、マナティーは一定時間マナの再生バフを付与してくれます。他にもマナを早く回復させる手段があるかもしれません",
         "json": [
           {
-            "text": "There are items, such as Mana Tea or Potions, that can help "
+            "text": "マナティーやポーションなど、 "
           },
           {
-            "text": "restore mana more quickly",
+            "text": "マナをより早く回復",
             "color": "blue"
           },
           {
-            "text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."
+            "text": ". させることができるアイテムがあります。ポーションは即座に回復し、マナティーは一定時間マナの再生バフを付与してくれます。他にもマナを早く回復させる手段があるかもしれません"
           }
         ]
       },
       {
         "type": "text",
-        "value": "Mana potions have five levels, they are: Minor, Light, Regular, Greater, Superior.  Each level restores 20% of your maximum mana.  Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are.",
+        "value": "マナポーションには5つのレベルがあり： 初位、低位、一般、上位そして超位があります。レベルにつき最大マナの２０％を回復します。魂はマナポーションでは回復できませんが、獄炎、夏火、そして冬氷は回復できます。",
         "json": [
           {
-            "text": "Mana potions",
+            "text": "マナポーション",
             "color": "blue"
           },
           {
-            "text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
+            "text": "には5つのレベルがあり： 初位、低位、一般、上位そして超位があります。レベルにつき最大マナの２０％を回復します。魂はマナポーションでは回復できませんが、獄炎、夏火、そして冬氷は回復できます。"
           }
         ]
       }
@@ -439,42 +439,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "How to Progress"
+        "value": "このMODの進め方"
       },
       {
         "type": "text",
-        "value": "The occulus is a block that will help guide you through this mod along with this book.  It will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked.\n\nTo see what you need to do in order to progress, click the progress tab.\n\nConsider the occulus a list of *what* you need do to in order to progress, and this book instructions on *how*.\n\nRemember this book has a search feature to easily find things within it that you're looking for.",
+        "value": "オキュラスは、この本と一緒にこのMODを案内してくれるブロックです。 このMODの中で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*何が*必要かのリストであり、本書は*方法*の説明書だと考えてください。\n\nこの本には検索機能がついているので、探しているものを簡単に見つけることができます。",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "occulus",
+            "text": "オキュラス",
             "color": "blue"
           },
           {
-            "text": " is a block that will help guide you through this mod along with this book. \n\nIt will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked. \n\nTo see what you need to do in order to progress, click the progress tab. \n\nConsider the occulus a list of *"
+            "text": "は、この本と一緒にこのMODを案内してくれるブロックです。 このMODの中で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*"
           },
           {
-            "text": "what",
+            "text": "何が",
             "color": "blue"
           },
           {
-            "text": "* you need do to in order to progress, and this book instructions on *"
+            "text": "*必要かのリストであり、本書は*"
           },
           {
-            "text": "how",
+            "text": "方法",
             "color": "blue"
           },
           {
-            "text": "*. \n\n"
+            "text": "の説明書だと考えてください。 \n\n"
           },
           {
-            "text": "Remember this book has a search feature",
+            "text": "この本には検索機能がついているので",
             "color": "dark_purple"
           },
           {
-            "text": " to easily find things within it that you're looking for."
+            "text": " 、探しているものを簡単に見つけることができます。"
           }
         ]
       }
@@ -492,166 +492,166 @@
     "sections": [
       {
         "type": "title",
-        "value": "New Villager Types"
+        "value": "新たな村人の種類"
       },
       {
         "type": "text",
-        "value": "Mana and Artifice adds three new villager types to help you with resources and trade throughout your playthrough.  Each one specializes in a different area of the mod, and can be used to help progress or simply trade for fun and useful items.  They are not required to start nor progress through the mod, if villagers aren't your thing.  M&A villagers trade in both emeralds and Transmuted Silver, so be sure to stock up on both.\n\nAll villager types can spawn naturally in villages, or can be created per vanilla rules by using their specific job block.",
+        "value": "Mana and Artificeには3つの新しい村人が追加され、プレイ中、資源や取引であなたを助けてくれます。 それぞれModの異なる分野に特化しており、進行に役立てたり、単に楽しくて便利なアイテムと交換したりすることができます。 村人が苦手な場合は、MODの開始や進行に必須ではありませんので安心してください。 M&A村人はエメラルドとトランスミューテッドシルバーの両方を取引するので、両方をたくさん買っておいてください。\n\nすべての村人の種類は村に自然にスポーンするか、バニラのルールに従って特定のジョブブロックを使用することで作成できます。",
         "json": [
           {
-            "text": "I am not alone in my quest for magic.  In villages throughout the world I have seen other practitioners peddling their wares.  Each one seems to specialize in different facets of magic, from general magic, to weaving magic into the air, to smithing powerful runes to enchant gear.\n\nIn terms of currency, I have seen them ask for Transmuted Silver, so I should stock up on that before making the journey to trade. \n\nI'm certain I can complete my studies without their help if I needed to though."
+            "text": "魔法の探求者は私ひとりではない。 世界中の村々で、他の修行者たちが品物を売りさばいているのを見た。 一般的な魔法から、空中に魔法を織り込むもの、強力なルーンを錬金して道具をエンチャントするものまで、それぞれが異なる魔法に特化しているようだ。\n\n通貨に関しては、彼らが *変成銀*を要求しているのを見かけたから、交易の旅に出る前にそれを蓄えておこう。\n\nただし彼らの助けがなくても、研究をやり遂げられることは可能なはずだ。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Spellmongers",
+        "value": "呪文商人",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Spellmongers sell useful herbalist pouches, inks, and other common ingredients you'll frequently need throughout the mod.  The Spellmonger's job block is the Runeforge.",
+        "value": "呪文商人は便利な薬草入りポーチを売っており、ランダムな魔法の花やインク、そして呪文の作成にて頻繁に必要となるその他の一般的な材料が一緒についてきます。ポーチは革と紐でできていて、材料を取り出した後に再利用できます 呪文商人のはRuneforgeが仕事に必要ですです。",
         "json": [
           {
-            "text": "Spellmongers",
+            "text": "呪文商人",
             "color": "dark_purple"
           },
           {
-            "text": " sell useful "
+            "text": " は便利な "
           },
           {
-            "text": "herbalist pouches",
+            "text": "薬草入りポーチ",
             "color": "blue"
           },
           {
-            "text": " which contain random magical flowers, "
+            "text": " を売っており、ランダムな魔法の花や "
           },
           {
-            "text": "inks",
+            "text": "インク",
             "color": "blue"
           },
           {
-            "text": ", and "
+            "text": "、そして呪文の作成にて頻繁に必要となる"
           },
           {
-            "text": "other common ingredients",
+            "text": "その他の一般的な材料",
             "color": "blue"
           },
           {
-            "text": " I frequently need for spell crafting.  The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Spellmongers seem to require a "
+            "text": "が一緒についてきます。ポーチは革と紐でできていて、材料を取り出した後に再利用できます。\n\n呪文商人は仕事をするのに "
           },
           {
-            "text": "Runeforge",
+            "text": "ルーンの鍛冶台",
             "color": "dark_purple"
           },
           {
-            "text": " to do their job."
+            "text": "が必要のようだ。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Manaweavers",
+        "value": "魔織師",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Manaweavers sell useful manaweaver pouches, foci, silks and tea.  The Manaweaver's job block is the Manaweaving Altar.",
+        "value": "魔織師は、便利なマナ織りを含んだ魔織師のポーチやフォーカス、魔法のシルク、早めるお茶などを売っています。 魔織師は仕事をするのに、魔織の祭壇が必要なようです。",
         "json": [
           {
-            "text": "Manaweavers",
+            "text": "魔織師",
             "color": "dark_purple"
           },
           {
-            "text": " sell useful "
+            "text": "は、便利なマナ織りを含んだ"
           },
           {
-            "text": "manaweaver pouches",
+            "text": "魔織師のポーチ",
             "color": "blue"
           },
           {
-            "text": " which contain bottled manaweaves for quick use, "
+            "text": " や"
           },
           {
-            "text": "foci",
+            "text": "フォーカス",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "、"
           },
           {
-            "text": "magical silks",
+            "text": "魔法のシルク",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "そしてマナの回復を早める"
           },
           {
-            "text": "teas ",
+            "text": "お茶",
             "color": "blue"
           },
           {
-            "text": "that help my mana regenerate faster. The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Manaweavers seem to require a "
+            "text": "などを売っています。ポーチは革と紐でできていて、材料を取り出した後に再利用できます。\n\n魔織師は仕事をするのに、"
           },
           {
-            "text": "Manaweaving Altar",
+            "text": "魔織の祭壇",
             "color": "dark_purple"
           },
           {
-            "text": " to do their job."
+            "text": "が必要なようです。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Runesmiths",
+        "value": "ルーン師",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Runesmiths sell useful inscription pouches, runes of marking, and other useful items for runescribing and construct crafting.  The Runesmiths's job block is the Runescribing Table.",
+        "value": "ルーン師は、便利な刻印師のポーチや、マーキングのルーン、その他ルーンの刻印やコンストラクトの作成に必要なアイテムなどを販売しています。 ルーン師の職業ブロックはルーン筆記台です。",
         "json": [
           {
-            "text": "Runesmiths",
+            "text": "ルーン鍛冶",
             "color": "dark_purple"
           },
           {
-            "text": " sell useful "
+            "text": "は、様座ななルーンを含む便利な"
           },
           {
-            "text": "inscription pouches",
+            "text": "刻印師のポーチ",
             "color": "blue"
           },
           {
-            "text": " which contain various runes, "
+            "text": "や、 "
           },
           {
-            "text": "runes of marking",
+            "text": "マーキングのルーン",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "、"
           },
           {
-            "text": "other useful items for runesmithing and construct crafting.",
+            "text": "その他ルーンの刻印やコンストラクトの作成に必要なアイテム",
             "color": "blue"
           },
           {
-            "text": " The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that "
+            "text": "などを販売しています。ポーチは革と紐でできていて、材料を取り出した後に再利用できます\n\n"
           },
           {
-            "text": "Runesmiths",
+            "text": "ルーン師",
             "color": "dark_purple"
           },
           {
-            "text": " seem to require a "
+            "text": "は仕事をするのに "
           },
           {
-            "text": "Runescribing Table",
+            "text": "ルーン筆記台",
             "color": "dark_purple"
           },
           {
-            "text": " to do their job."
+            "text": "が必要なようだ。"
           }
         ]
       }
@@ -684,35 +684,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Flowers"
+        "value": "魔法の花"
       },
       {
         "type": "text",
-        "value": "There are certain flowers that grow around the world that I'll need in order to make the most use of magic.  These flowers are often used as reagents or ingredients, so I should take note of where to find them.",
+        "value": "世界には、魔法を使いこなすために必要な花が咲いているんだ。 この花は薬品や材料として使われることが多いから、どこにあるか記録しておくことにしよう。",
         "json": [
           {
-            "text": "There are certain flowers that grow around the world that I'll need in order to make the most use of magic. These flowers are often used as reagents or ingredients, so I should take note of where to find them.\n\nAll of these flowers can be crushed into dyes, some of the colors being particularly hard to find otherwise.\n\nI can also trade with "
+            "text": "世界には、魔法を使いこなすために必要な花が咲いているんだ。 この花は薬品や材料として使われることが多いから、どこにあるか記録しておくことにしよう。\n\nこれらの花はすべて砕いて染料にすることができ、特に他では入手困難な色もある。.\n\nそれと、"
           },
           {
-            "text": "Spellmongers",
+            "text": "村",
             "color": "blue"
           },
           {
-            "text": " in "
+            "text": "にいる"
           },
           {
-            "text": "villages",
+            "text": "呪文商人",
             "color": "blue"
           },
           {
-            "text": " for "
+            "text": "から"
           },
           {
-            "text": "Herbalist Pouches",
+            "text": "薬草医のポーチ",
             "color": "blue"
           },
           {
-            "text": " for these flowers if I do not wish to locate them myself. "
+            "text": "を買うことで見つけるのが面倒な花を楽に入手することもできます。 "
           }
         ]
       },
