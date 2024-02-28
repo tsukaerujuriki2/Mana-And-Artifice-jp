@@ -718,7 +718,7 @@
       },
       {
         "type": "title",
-        "value": "Aum",
+        "value": "アウム",
         "newPage": true
       },
       {
@@ -728,30 +728,30 @@
       },
       {
         "type": "text",
-        "value": "Sometimes known as the 'lily of life', aum flowers are found in Forests and Plains.  They often have uses in healing and restorative endeavors despite their extremely bitter taste.",
+        "value": "「生命の百合」と呼ばれることもあるアウムの花は、森や平野によく見られます。非常に苦い味にもかかわらず、癒しや回復のためによく使われます。",
         "json": [
           {
-            "text": "Sometimes known as the 'lily of life', "
+            "text": "「生命の百合」と呼ばれることもある "
           },
           {
-            "text": "Aum",
+            "text": "アウム",
             "color": "blue"
           },
           {
-            "text": " are found in "
+            "text": "は、"
           },
           {
-            "text": "Forests and Plains",
+            "text": "森や平野",
             "color": "dark_purple"
           },
           {
-            "text": ". They often have uses in healing and restorative endeavors despite their extremely bitter taste."
+            "text": "によく見られます。非常に苦い味にもかかわらず、癒しや回復のためによく使われます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Cerublossom",
+        "value": "セルブロッサム",
         "newPage": true
       },
       {
@@ -761,30 +761,30 @@
       },
       {
         "type": "text",
-        "value": "An extremely common flower, cerublossom is often mistaken for a blue orchid at a glance.  However, they do have a telltale shimmer at closer inspection.  They can be found in Forests, Plains, and Wintery places.  Cerublossom are used in a wide variety of magical recipes.  It's been said that they can emit a soothing hum that can only be heard by young children.",
+        "value": "非常にありふれた花であるセルブロッサムは、一見すると青い蘭のように見えます。 しかし、よく見るとキラキラと光っているので見分けることができます。セルブロッサムは森や平原、そして寒い地方によく見かけます。 セルブロッサムは、さまざまな魔法のレシピに使用されています。 また、幼い子供にしか聞こえない、心地よい音を発すると言われています。",
         "json": [
           {
-            "text": "An extremely common flower, "
+            "text": "非常にありふれた花である "
           },
           {
-            "text": "Cerublossom ",
+            "text": "セルブロッサム",
             "color": "blue"
           },
           {
-            "text": "are often mistaken for a blue orchid at a glance. However, they do have a telltale shimmer at closer inspection. They can be found in "
+            "text": "は、一見すると青い蘭のように見えます。 しかし、よく見るとキラキラと光っているので見分けることができます。 セルブロッサムは、"
           },
           {
-            "text": "forests, plains, and wintery places",
+            "text": "森や平原、そして寒い地方",
             "color": "dark_purple"
           },
           {
-            "text": ". Cerublossom are used in a wide variety of magical recipes. It's been said that they can emit a soothing hum that can only be heard by young children."
+            "text": "でよく見かけます。 セルブロッサムは、さまざまな魔法のレシピに使用されています。 また、幼い子供にしか聞こえない、心地よい音を発すると言われています。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Tarma Root",
+        "value": "タルマの根",
         "newPage": true
       },
       {
@@ -794,27 +794,27 @@
       },
       {
         "type": "text",
-        "value": "Tarma root grow in large quantities in swamps.  Their sharp thorns make them uncomfortable to pick and nearly impossible to eat.  The way these roots can sway in the wind has lead to stories about them granting the ability to fly.  This, however, has never been accomplished and is widely believed to be nothing more than a legend.",
+        "value": "タルマの根は沼地に大量に生えています。鋭い棘があるため、摘み取るのは困難で、食べることもほとんど不可能です。この根が風に揺れる様から、空を飛ぶ能力があるという話もあります。しかし、実際に空を飛ぶことはできず、伝説に過ぎないという説が有力です。",
         "json": [
           {
-            "text": "Tarma Root ",
+            "text": "タルマの根",
             "color": "blue"
           },
           {
-            "text": "grow in large quantities in "
+            "text": "大量に"
           },
           {
-            "text": "swamps",
+            "text": "沼地",
             "color": "dark_purple"
           },
           {
-            "text": ". Their sharp thorns make them uncomfortable to pick and nearly impossible to eat. The way these roots can sway in the wind has lead to stories about them granting the ability to fly. This, however, has never been accomplished and is widely believed to be nothing more than a legend."
+            "text": "に生えています。鋭い棘があるため、摘み取るのは困難で、食べることもほとんど不可能です。この根が風に揺れる様から、空を飛ぶ能力があるという話もあります。しかし、実際に空を飛ぶことはできず、伝説に過ぎないという説が有力です。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Desert Nova",
+        "value": "デザートノヴァ",
         "newPage": true
       },
       {
@@ -824,30 +824,30 @@
       },
       {
         "type": "text",
-        "value": "As their namesake suggests, Desert Nova grow in sandy regions.  Even on the coldest desert night they are warm to the touch, and have been used by many to keep warm by keeping a few in their pockets.",
+        "value": "デザートノヴァは、その名の通り、暖かい砂漠地帯に生育する植物です。砂漠の寒い夜でも暖かく、ポケットに忍ばせて防寒対策に使う人も多いと言われている。",
         "json": [
           {
-            "text": "As their namesake suggests, "
+            "text": "その名の通り、"
           },
           {
-            "text": "Desert Nova ",
+            "text": "デザートノヴァは",
             "color": "blue"
           },
           {
-            "text": "grow in "
+            "text": ""
           },
           {
-            "text": "warm sandy regions",
+            "text": "暖かい砂漠地帯",
             "color": "dark_purple"
           },
           {
-            "text": ". Even on the coldest desert night they are warm to the touch, and have been used by many to keep warm by keeping a few in their pockets."
+            "text": "に生育する植物です。砂漠の寒い夜でも触ると暖かく、ポケットに忍ばせて防寒対策に使う人も多いと言われている。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Wakebloom",
+        "value": "ウェイクブルーム",
         "newPage": true
       },
       {
@@ -857,21 +857,21 @@
       },
       {
         "type": "text",
-        "value": "Wakebloom thrive in water, growing as small seeds along the ocean floors and riverbeds before floating up to the top of the water and blooming in a beautiful fashion.  They carry a surprising amount of water with them even when harvested.",
+        "value": "ウェイクブルームは水中に生息し、海底や川底で小さな種から成長し、水面に浮かび上がって美しい花を咲かせます。 収穫した後も、驚くほど多くの水を含んでいる。",
         "json": [
           {
-            "text": "Wakebloom ",
+            "text": "ウェイクブルーム",
             "color": "blue"
           },
           {
-            "text": "thrive in "
+            "text": "は"
           },
           {
-            "text": "water",
+            "text": "水中",
             "color": "dark_purple"
           },
           {
-            "text": ", growing as small seeds along the ocean floors and riverbeds before floating up to the top of the water and blooming in a beautiful fashion. They carry a surprising amount of water with them even when harvested."
+            "text": "に生息し、海底や川底で小さな種から成長し、水面に浮かび上がって美しい花を咲かせます。 収穫した後も、驚くほど多くの水を含んでいる。"
           }
         ]
       }
@@ -905,11 +905,11 @@
     "sections": [
       {
         "type": "title",
-        "value": "Vinteum"
+        "value": "ヴィンテウム"
       },
       {
         "type": "text",
-        "value": "I'm not sure what causes this seemingly coalesced arcane energy to gather in certain stones underground."
+        "value": "なぜか、地中のある石に、自然に凝集したような魔力が集まっているようだ。"
       },
       {
         "type": "item",
@@ -918,18 +918,18 @@
       },
       {
         "type": "text",
-        "value": "I do know though that I can run the ore through a furnace to turn it into a fine powder.  I'm sure there are a very large number of uses for such a thing."
+        "value": "ただし、鉱石を炉にかけて細かい粉末にすることはできると知っている。 粉にすれば使い方はいくらでもあるはずだ。"
       },
       {
         "type": "title",
-        "value": "Chimerite"
+        "value": "キメライト"
       },
       {
         "type": "text",
-        "value": "I can't believe it's been under my nose this whole time - a hidden magical ore that I mistook for excess bits of rock when mining other valuable ores!  I call it Chimerite because it can look just like mining debris until one's magical senses are honed to be able to detect it.\n\nIt's easiest to find in emerald ore, something to do with the structure of emeralds themselves.  Most mages will be able to sense these with only a little bit of magical experience, probably mages that are at least level 5.\n\nNext are diamonds.  While not as easy as emeralds, chimerite can be found here by mages with a little bit more experience, above level 10.\n\nLastly is coal.  Chimerite is technically there in trace elements, but it takes a finely tuned magical mind to pick up the traces that are large enough to be useable.  I would say no mage under level 20 would see it.\n\nOn that point, I should note that the chimerite is also often destroyed as part of the mining process, and isn't always retrievable from every mining attempt.  Emeralds seem to have the best success rate here, followed by diamonds, and then again by coal.\n\nIt can be crafted into blocks and back using a crafting table.",
+        "value": "他の貴重な鉱石を採掘するときに、余分な岩石のかけらと間違えて、隠れた魔法の鉱石を採掘していたなんて!  魔法の感覚が研ぎ澄まされるまでは、採掘くずと同じように見えるので、キメライトと呼んでいるんだ。\n\nエメラルドは鉱石の中でキメライトを最も見つけやすく、エメラルド自体の構造に関係するようだ。 ほとんどの魔術師は、ほんの少しの魔法経験でこれを感知することができるはずだ。おそらくレベル5以上の魔術師が採掘できるだろう。\n\n次はダイヤモンド。 エメラルドほどではないが、レベル10以上の魔術師ならここでキメラアイトを見つけることができる。 キメラライトは微量元素として存在が、その微量元素を使い物になる大きさに拾い上げるには、繊細な魔力が必要なようだ。 そのため、キメラライトは採掘の過程で破壊されることも多く、採掘のたびに回収できるわけではないようだ。 一番確率が高いのはエメラルド、次がダイヤモンド、そして石炭です。\n\n作業台を使うことでブロックに加工したりブロックから戻すことができる。",
         "json": [
           {
-            "text": "I can't believe it's been under my nose this whole time - a hidden magical ore that I mistook for excess bits of rock when mining other valuable ores! \n\nI call it Chimerite because it can look just like mining debris until one's magical senses are honed to be able to detect it. \n\nIt's easiest to find in emerald ore, something to do with the structure of emeralds themselves. Most mages will be able to sense these with only a little bit of magical experience, probably mages that are at least level 5. \n\nNext are diamonds. While not as easy as emeralds, chimerite can be found here by mages with a little bit more experience, above level 10. \n\nLastly is coal. Chimerite is technically there in trace elements, but it takes a finely tuned magical mind to pick up the traces that are large enough to be useable. I would say no mage under level 20 would see it. \n\nOn that point, I should note that the chimerite is also often destroyed as part of the mining process, and isn't always retrievable from every mining attempt. Emeralds seem to have the best success rate here, followed by diamonds, and then again by coal. It can be crafted into blocks and back using a crafting table."
+            "text": "他の貴重な鉱石を採掘するときに、余分な岩石のかけらと間違えて、隠れた魔法の鉱石を採掘していたなんて!  魔法の感覚が研ぎ澄まされるまでは、採掘くずと同じように見えるので、キメライトと呼んでいるんだ。\n\nエメラルドは鉱石の中でキメライトを最も見つけやすく、エメラルド自体の構造に関係するようだ。 ほとんどの魔術師は、ほんの少しの魔法経験でこれを感知することができるはずだ。おそらくレベル5以上の魔術師が採掘できるだろう。\n\n次はダイヤモンド。 エメラルドほどではないが、レベル10以上の魔術師ならここでキメラアイトを見つけることができる。 キメラライトは微量元素として存在が、その微量元素を使い物になる大きさに拾い上げるには、繊細な魔力が必要なようだ。 そのため、キメラライトは採掘の過程で破壊されることも多く、採掘のたびに回収できるわけではないようだ。 一番確率が高いのはエメラルド、次がダイヤモンド、そして石炭です。\n\n作業台を使うことでブロックに加工ブロックから戻すことができる。"
           }
         ]
       }
@@ -967,20 +967,20 @@
     "sections": [
       {
         "type": "title",
-        "value": "Common Resources"
+        "value": "よく使う資源"
       },
       {
         "type": "text",
-        "value": "As you're progressing through the early stages of the mod there are several resources you'll need.  What they are, and how to obtain them, are listed below.\n\nThese are not always the only way to obtain these resources; in fact many have more convenient ways unlocked as you progress.",
+        "value": "MODの初期段階を進めていく中で、必要となるリソースがいくつかあります。 それらが何であるか、またどのように入手するかは、以下の通りです。\n\nこれらの資源を手に入れる方法は、必ずしも一つしかないとは限りません。むしろ、多くの場合、進行に応じてより便利な方法がアンロックされます。",
         "json": [
           {
-            "text": "I've compiled a list of common materials I need. \nWhat they are and how to obtain them is listed below. \n\nThese are likely not always the only way to obtain these resources; in fact many will probably have more convenient ways unlocked as I progress."
+            "text": "私は必要な素材のリストを作成した。 \nそれらが何であるか、またどのように入手するかは、以下の通りです。\n\nこれらの資源を手に入れる方法は、必ずしも一つしかないとは限らない。むしろ、多くの場合進捗に応じてより便利な方法を発見できるはずだ。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Bone Ash",
+        "value": "骨の灰",
         "newPage": true
       },
       {
@@ -990,11 +990,11 @@
       },
       {
         "type": "text",
-        "value": "The runeforge's heat is able to break down bones into a fine ash.  I should be able to use this ash for multiple magical purposes."
+        "value": "ルーンフォージの熱が、骨を細かく砕いて灰にすることができるようだ。 この灰は様々の魔法に使うことができるはずだ。"
       },
       {
         "type": "title",
-        "value": "Transmuting Materials",
+        "value": "素材の変異",
         "newPage": true
       },
       {
@@ -1008,30 +1008,30 @@
       },
       {
         "type": "text",
-        "value": "Using a transmutation cantrip, I can target certain blocks placed within the world to transmute them into something else."
+        "value": "変異のキャントリップを使えば、世界の中に置かれた特定のブロックに狙いを定めて、それを別のものに変異することができる。"
       },
       {
         "type": "text",
-        "value": "- Arcane Stone is transmuted from Stone."
+        "value": "- 神秘の石は石を変異することで作成できます。"
       },
       {
         "type": "text",
-        "value": "- Arcane Sandstone is transmuted from Sandstone."
+        "value": "- 神秘の砂岩は砂岩を変異することで作成できます。"
       },
       {
         "type": "text",
-        "value": "- Transmuted Silver is transmuted from Copper Blocks."
+        "value": "- 変異した銀は銅のブロックを変異することで作成できます。"
       },
       {
         "type": "text",
-        "value": "- Gravel is transmuted into flint."
+        "value": "- 火打石は砂利を変異することでも作成できます。"
       },
       {
         "type": "text",
-        "value": "You can read more about Cantrips in their entirety under the Manaweaving section of this Codex.",
+        "value": "キャントリップについては、このCodexの魔織のセクションで詳しく説明されています。",
         "json": [
           {
-            "text": "I've detailed more about Cantrips in their entirety under the Manaweaving section of this Codex."
+            "text": "キャントリップについては、このCodexの魔織のセクションで詳しく説明されています。"
           }
         ]
       }
@@ -1065,23 +1065,23 @@
     "sections": [
       {
         "type": "title",
-        "value": "Common Mundane Materials"
+        "value": "ありふれた素材"
       },
       {
         "type": "text",
-        "value": "This mod adds a few recipes for vanilla items that are often used in the mod or just generally difficult to obtain.  They are listed here.  Some are tier locked and will appear as you advance.",
+        "value": "このMODは、MODでよく使われる、あるいは一般的に入手が困難なバニラアイテムのレシピをいくつか追加します。 それらはここにリストアップされています。 いくつかはTierロックされており、上級者になると表示されるようになります。",
         "json": [
           {
-            "text": "I've created ways to magically synthesize common mundane materials that are otherwise rare or hard to obtain, but frequently used for magic. \n\nI'm sure I'll come up with more as I progress.  I'll make sure to list them here."
+            "text": "私は、他の方法では希少であったり入手が困難であったりするが、魔法によく使われるありふれた材料を魔法的に合成する方法を編み出した。 \n\nさらに魔術が上達すれば、さらに多くのことを思いつくだろう。 思いついたらここに書き込むことにする。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "The included recipes are:\n\nLeather\nCrying Obsidian\nPrismarine Crystal\nPrismarine Shard\nGilded Blackstone\nName Tag\nPoisonous Potato\nSaddle",
+        "value": "見つけたレシピは:\n\n革\n泣く黒曜石\nプリズマリンの結晶\nプリズマリンの欠片\nきらめくブラックストーン\n名札\n青くなったジャガイモ\nサドル",
         "json": [
           {
-            "text": "The included recipes are:\n- Leather\n- Crying Obsidian\n- Prismarine Crystal\n- Prismarine Shard\n- Gilded Blackstone\n- Name Tag\n- Poisonous Potato \n- Saddle"
+            "text": "見つけたレシピは:\n- 革\n- 泣く黒曜石\n- プリズマリンの結晶\n- プリズマリンの欠片\n- きらめくブラックストーン\n- 名札\n- 青くなったジャガイモ \n- サドル"
           }
         ]
       }
@@ -1127,24 +1127,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Enemies and Allies"
+        "value": "敵と味方"
       },
       {
         "type": "text",
-        "value": "This mod adds several new enemies and allies, depending on your faction choice.  You can read about them, and see them below.  They are all neutral until you reach tier 3 and choose a faction.  At that point, those allied with your faction will defend you from hostiles, and the other ones will become hostile.",
+        "value": "このMODは、あなたの派閥の選択に応じて、いくつかの新しい敵や味方を追加します。 それらについては、以下の記事を読んでください。 あなたがTier 3に到達し、派閥を選択するまで、彼らはすべて中立です。 その時点で、あなたの派閥と同盟しているものは敵対者からあなたを守り、それ以外のものは敵対するようになります。",
         "json": [
           {
-            "text": "There are at least four "
+            "text": "最低でも四つの"
           },
           {
-            "text": "factions",
+            "text": "派閥",
             "color": "blue"
           },
           {
-            "text": ", all at war with each other.  Their troops are often encountered in the wild, but generally are passive to the factionless unless provoked.\n\nThe factions seem to deploy more powerful troops near where more powerful wizards exist.\n\n"
+            "text": "があり、それぞれ他の派閥と戦争をしているようだ。彼らの軍隊はしばしば野生で遭遇するが、挑発されない限り、無派閥に対しては無関心のようだ。\n\n各派閥は、より強力な魔法使いがいる近くに、より強力な軍隊を配置するようだ。\n\n"
           },
           {
-            "text": "They will attack members of opposing factions on sight, and defend those allied with their own faction.",
+            "text": "敵対する派閥のメンバーを見つけ次第攻撃し、自派閥に味方するメンバーを守るようだ。",
             "color": "dark_purple"
           }
         ]
@@ -1157,32 +1157,32 @@
       },
       {
         "type": "title",
-        "value": "Spellbreaker"
+        "value": "スペルブレイカー"
       },
       {
         "type": "text",
-        "value": "Spell breakers are one of the soldiers of the Council of Wizards, and will aid and defend those allied to the Council.  They have a resilient shield that can reflect certain types of spells, and can unleash a battle cry that causes nearby allies of theirs to heal quickly for a short time, and to take less damage and deal much more damage for a moderate time.",
+        "value": "スペルブレイカーは魔術師評議会の兵士の1人であり、評議会に味方する者を助け、守ることになります。 彼らは特定の種類の呪文を反射できる弾力性のある盾を持ち、近くの味方を短時間で素早く回復させ、適度な時間、ダメージを受けにくく、はるかに大きなダメージを与える鬨の声を放つことができます。",
         "json": [
           {
-            "text": "Spellbreakers",
+            "text": "スペルブレイカー",
             "color": "blue"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、"
           },
           {
-            "text": "Council",
+            "text": "評議会",
             "color": "blue"
           },
           {
-            "text": ".\n\nThey have a resilient shield that can reflect certain types of spells, although it "
+            "text": "に所属する兵士の一人です。\n\n彼らは特定の種類の呪文を反射できる弾力性のある盾を持つが、 "
           },
           {
-            "text": "can sometimes be broken by an axe",
+            "text": "時折斧によって破壊されることがあるようだ。",
             "color": "dark_purple"
           },
           {
-            "text": ".  Their stunning shield bash can silence for short periods of time.\n\nThey can unleash a battle cry that causes nearby allies of theirs to heal quickly for a short time, and to take less damage and deal much more damage for a moderate time."
+            "text": "。彼らのシールドバッシュは相手をスタンさせ一定時間声を出せなくなるようだ\n\n彼らは近くの味方を短時間で素早く回復させ、適度な時間、ダメージを受けにくく、はるかに大きなダメージを与えることのできる「鬨の声」を放つことができます。"
           }
         ]
       },
@@ -1194,11 +1194,11 @@
       },
       {
         "type": "title",
-        "value": "Witch Hunter"
+        "value": "魔女狩人"
       },
       {
         "type": "text",
-        "value": "Witch Hunters are one of the soldiers of the Council of Wizards, and will aid and defend those allied to the Council.  They are trained in agility, allowing them to attempt to dodge certain attacks and are expert marksman.  They use their crossbows to deadly effect and carry potions that can slow the movement or the mana regeneration of those unfortunate to be caught in their splash effect.",
+        "value": "ウィッチ・ハンターは魔術師評議会の兵士の一人で、評議会に味方する人々を助け、守ります。 彼らは敏捷性を訓練され、特定の攻撃をかわすことができ、射撃の名手である。 彼らはクロスボウを駆使して致命的な効果をもたらし、不運にもそのスプラッシュ効果に巻き込まれた者の動きやマナの回復を遅らせることができるポーションを携帯しています。",
         "json": [
           {
             "text": "Witch Hunters",
